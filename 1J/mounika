@@ -1,3 +1,260 @@
-ii
-hello
-mouni
+git log
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:43:10 2023 +0530
+
+    line 1 of b1
+
+commit 72ea5e29a748ce48e691f76449806bf0aeb67869
+Author: mounika <tnalla646@gmailcom>
+Date:   Wed Jun 21 16:02:14 2023 +0530
+
+    kite
+
+
+
+
+commit c33412b4341a89cb9971addf02bcf41aaad6a65a (HEAD -> b2)
+Merge: 75089ee 53553e3
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:46:04 2023 +0530
+
+    Merge branch 'b1' into b2
+
+commit 75089eea9c698789d4742c53de26fd3baec28f6f
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:44:54 2023 +0530
+
+    line 1 of b2
+
+commit 53553e31e9199fad307b27ea825fadfa88c00522 (b1)
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:43:10 2023 +0530
+
+    line 1 of b1
+
+commit 72ea5e29a748ce48e691f76449806bf0aeb67869
+Author: mounika <tnalla646@gmailcom>
+Date:   Wed Jun 21 16:02:14 2023 +0530
+
+    kite
+
+
+
+commit 78531a9d282e223b92acde42c7747b62820d66fb (HEAD -> b3)
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:53:20 2023 +0530
+
+    line 5 of b1
+
+commit 9e476683fb4c7400b5538b256026018a786bc550
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:51:55 2023 +0530
+
+    line 4 of b1
+
+commit 3a36e06140e3dd38d5d4ec500cfce62b864f421c
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:50:37 2023 +0530
+
+    line 3 of b1
+
+commit 91d2c3d33acc7f6f5375dc1e2a1c6d9ebc421e26
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:48:47 2023 +0530
+
+    line 2 of b1
+
+commit c33412b4341a89cb9971addf02bcf41aaad6a65a (b2)
+Merge: 75089ee 53553e3
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:46:04 2023 +0530
+
+    Merge branch 'b1' into b2
+
+commit 75089eea9c698789d4742c53de26fd3baec28f6f
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:44:54 2023 +0530
+
+    line 1 of b2
+
+commit 53553e31e9199fad307b27ea825fadfa88c00522 (b1)
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:43:10 2023 +0530
+
+    line 1 of b1
+
+:
+
+
+
+commit ca71f54a28a7ba32ae6a785b77f9acd79fc46d37 (HEAD -> master, origin/master)
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:53:20 2023 +0530
+
+    line 5 of b1
+
+commit f302f44f4eaf4ec3e1aa53e46157d3387401b415
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:51:55 2023 +0530
+
+    line 4 of b1
+
+commit 2d3529ec4ccdf9bc1ebf0908a95e5e81518384b2
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:50:37 2023 +0530
+
+    line 3 of b1
+
+commit 79b919491fd2682f7987c43c7b847250da975664
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:48:47 2023 +0530
+
+    line 2 of b1
+
+commit 97a40e44864a0523df2f496e3ab014797f99adee
+Author: mounika <tnalla646@gmailcom>
+Date:   Fri Jun 23 22:43:10 2023 +0530
+
+    line 1 of b1
+
+commit 72ea5e29a748ce48e691f76449806bf0aeb67869
+Author: mounika <tnalla646@gmailcom>
+Date:   Wed Jun 21 16:02:14 2023 +0530
+
+    kite
+
+
+
+
+history 
+
+ 1  git clone https://github.com/mounika265/1J.git
+    2  ls
+    3  cd 1J
+    4  ls
+    5  git branch b1
+    6  git branch b2
+    7  git branch b3
+    8  git checkout b1
+    9  vi b1.txt
+   10  git add .
+   11  git commit -m "line 1 of b1"
+   12  git checkout b2
+   13  vi b2.txt
+   14  cat b2.txt
+   15  git add .
+   16  git commit -m "line 1 of b2"
+   17  git merge b1
+   18  git rebase b2 b3
+   19  ls
+   20  vi b1.txt
+   21  git add .
+   22  git commit -m "line 2 of b1"
+   23  vi b1.txt
+   24  git add .
+   25  git commit -m "line 3 of b1"
+   26  cat b1.txt
+   27  vi b1.txt
+   28  git add .
+   29  git commit -m "line 4 of b1"
+   30  cat b1.txt
+   31  vi b1.txt
+   32  git add .
+   33  git commit -m "line 5 of b1"
+   34  cat b1.txt
+   35  git log --oneline
+   36  git checkout main
+   37  git checkout master
+   38  ls
+   39  cat b1.txt
+   40  git cherry-pick 53553e3
+   41  git add .
+   42  git commit -m "cherry"
+   43  ls
+   44  cat b1.txt
+   45  git commit -m "line1"
+   46  git log --oneline
+   47  git cherry-pick 91d2c3d
+   48  cat b1.txt
+   49  git cherry-pick 3a36e06
+   50  cat b1.txt
+   51  git cherry-pick 9e47668
+   52  cat b1.txt
+   53  git cherry-pick 78531a9
+   54  cat b1.txt
+   55  git push
+   56  git remote add origin https://github.com/mounika265/1J.git
+   57  git push
+   58  git push --set-upstream origin master
+   59  ls
+   60  git push
+   61  cat b1.txt
+   62  git checkout main
+   63  ls
+   64  git checkout b3
+   65  git checkout main
+   66  git checkout b1
+   67  git log
+   68  git checkout b2
+   69  git log
+   70  git checkout b3
+   71  git log
+   72  git checkout master
+   73  git log
+   74  git push
+   75  git branch -D b1 b2 b3
+   76  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
