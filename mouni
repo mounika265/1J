@@ -1,0 +1,215 @@
+git log
+
+commit 9cabf93fea77c1f6fbe6b9116c6ecbcf8737f38d (HEAD -> b1)
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:30:17 2023 +0530
+
+    line if b1
+
+commit 3cce28091b0d7354227d1a0979226367b0181788
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:09:12 2023 +0530
+
+    line
+
+commit 5b5114bd1e1aa51fb56fec6ac39aa1319e9f095b
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:02:12 2023 +0530
+
+    line
+
+commit 5576038116be9a85beb6e7148206b94b3ff8427a
+Author: mounika <tnalla646@gmailcom>
+Date:   Wed Jun 21 15:37:24 2023 +0530
+
+    abi
+
+commit 4b8a2ee3921d1e07747012db3d24365a16c58e97
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:36:18 2023 +0530
+
+    ignore
+
+commit b56818802aba321e22be4fc64a0682233b232a7d
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:29:40 2023 +0530
+
+    1st line
+
+commit 01707ce34e1e15d442c0dcc791f7945c70bd105c
+Author: awspandian <46845070+awspandian@users.noreply.github.com>
+Date:   Thu Jun 1 19:41:10 2023 +0530
+
+    Initial commit
+
+
+
+
+git log
+
+
+commit fc4356115e632d3c0a3cdca01cd4395cbd113f05 (HEAD -> b2)
+Merge: a6f5497 9cabf93
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:34:30 2023 +0530
+
+    Merge branch 'b1' into b2
+
+commit a6f5497e7ad17bb38dbe58f0fdadc8056d77080e
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:33:21 2023 +0530
+
+    line of b2
+
+commit 9cabf93fea77c1f6fbe6b9116c6ecbcf8737f38d (b1)
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:30:17 2023 +0530
+
+    line if b1
+
+commit 3cce28091b0d7354227d1a0979226367b0181788
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:09:12 2023 +0530
+
+    line
+
+commit 5b5114bd1e1aa51fb56fec6ac39aa1319e9f095b
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:02:12 2023 +0530
+
+    line
+
+commit 5576038116be9a85beb6e7148206b94b3ff8427a
+Author: mounika <tnalla646@gmailcom>
+Date:   Wed Jun 21 15:37:24 2023 +0530
+
+    abi
+
+commit 4b8a2ee3921d1e07747012db3d24365a16c58e97
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:36:18 2023 +0530
+
+    ignore
+
+
+git log
+
+
+commit 05a684554c7617a0c1aeedb553500dbd73fac290 (HEAD -> b3)
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:43:18 2023 +0530
+
+    line 5 of b1
+
+commit cbe864fe11985d8fb67342cc9f65b5e92cb6298f
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:42:19 2023 +0530
+
+    line 4 of b1
+
+commit b485c1ff0b9f454c4114e95109637bfae3ed1a37
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:41:15 2023 +0530
+
+    line 3 of b1
+
+commit 808775e1c92b98e4b4168195fa8b0ad03c47e55c
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:39:53 2023 +0530
+
+    line 2 of b1
+
+commit fc4356115e632d3c0a3cdca01cd4395cbd113f05 (b2)
+Merge: a6f5497 9cabf93
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:34:30 2023 +0530
+
+    Merge branch 'b1' into b2
+
+commit a6f5497e7ad17bb38dbe58f0fdadc8056d77080e
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:33:21 2023 +0530
+
+    line of b2
+
+commit 9cabf93fea77c1f6fbe6b9116c6ecbcf8737f38d (b1)
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:30:17 2023 +0530
+
+    line if b1
+
+
+
+
+git log main
+
+
+commit 44a4b7c2db3a9497afbdf7aa35ca40b9e363fec5 (HEAD -> main, origin/main, origin/HEAD)
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:43:18 2023 +0530
+
+    line 5 of b1
+
+commit ce421d0304e43e948a55106580630958c346dc5b
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:42:19 2023 +0530
+
+    line 4 of b1
+
+commit d7d978146c42a15b5518dcdddeb3f6f1f574efb9
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:41:15 2023 +0530
+
+    line 3 of b1
+
+commit 10da4cdabe07dd65a20bb2c1f0771a60c306f770
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:39:53 2023 +0530
+
+    line 2 of b1
+
+commit d5aa1c347cabea95a35048a76e493388a0f84d66
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:30:17 2023 +0530
+
+    line if b1
+
+commit 3cce28091b0d7354227d1a0979226367b0181788
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:09:12 2023 +0530
+
+    line
+
+commit 5b5114bd1e1aa51fb56fec6ac39aa1319e9f095b
+Author: mounika <tnalla646@gmailcom>
+Date:   Sat Jun 24 13:02:12 2023 +0530
+
+    line
+
+commit 5576038116be9a85beb6e7148206b94b3ff8427a
+:
+
+
+
+history
+
+1  ls
+    2  cd 1J
+    3  ls
+    4  git checkout b1
+    5  git log
+    6  git checkout b2
+    7  git log
+    8  git checkout b3
+    9  git log
+   10  git checkout main
+   11  git log
+   12  git branch -D b1 b2 b3
+   13  history
+
+
+
+
+
+
+
